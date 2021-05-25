@@ -1,0 +1,1 @@
+I wrote my own greedy Decision Tree algorithm then played with sklearn's one and compared with my results.
