@@ -1,0 +1,1 @@
+The goal was to write down the KNN's algorithm, get some results and compare with the sklearn's built-in one.
